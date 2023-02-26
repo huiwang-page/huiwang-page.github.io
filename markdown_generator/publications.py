@@ -87,7 +87,13 @@ for row, item in publications.iterrows():
         md += "\npaperurl: '" + item.paper_url + "'"
     
     md += "\ncitation: '" + html_escape(item.citation) + "'"
+
+    if len(str(item.authors)) > 5:
+        md += "\nauthors: '" + html_escape(item.authors) + "'"
     
+    if len(str(item.publishinfo)) > 5:
+        md += "\npublishinfo: '" + html_escape(item.publishinfo) + "'"
+
     md += "\n---"
     
     ## Markdown description for individual page
