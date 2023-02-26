@@ -3,7 +3,7 @@ title: "Codimensional surface tension flow using moving-least-squares particles"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'A novel Eulerian-Lagrangian approach to simulate various codimensional surface tension phenomena characterized by volume, thin sheets, thin filaments, and points using Moving-Least-Squares (MLS) particles'
-date: 2020
+date: 2020-08-12
 venue: 'Siggraph 2020'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3386569.3392487'
 citation: 'Hui Wang, Yongxu Jin, Anqi Luo, Xubo Yang, and Bo Zhu. 2020. Codimensional surface tension flow using moving-least-squares particles. ACM Trans. Graph. 39, 4, Article 42 (August 2020), 16 pages. https://doi.org/10.1145/3386569.3392487'
