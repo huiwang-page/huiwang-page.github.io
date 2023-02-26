@@ -1,7 +1,7 @@
 ---
 title: "Codimensional surface tension flow using moving-least-squares particles"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-codim-mls
 excerpt: 'A novel Eulerian-Lagrangian approach to simulate various codimensional surface tension phenomena characterized by volume, thin sheets, thin filaments, and points using Moving-Least-Squares (MLS) particles'
 date: 2020-08-12
 venue: 'ACM Transactions On Graphics (SIGGRAPH)'
@@ -34,21 +34,24 @@ allowfullscreen>
 
 ### Bibtex
 
-    @article{10.1145/3386569.3392487,
-    author = {Wang, Hui and Jin, Yongxu and Luo, Anqi and Yang, Xubo and Zhu, Bo},
-    title = {Codimensional Surface Tension Flow Using Moving-Least-Squares Particles},
-    year = {2020},
-    issue_date = {August 2020},
-    publisher = {Association for Computing Machinery},
-    address = {New York, NY, USA},
-    volume = {39},
-    number = {4},
-    issn = {0730-0301},
-    url = {https://doi.org/10.1145/3386569.3392487},
-    doi = {10.1145/3386569.3392487},
-    journal = {ACM Trans. Graph.},
-    month = {aug},
-    articleno = {42},
-    numpages = {16},
-    keywords = {moving-least-squares, surface tension, codimensional fluids, PIC/FLIP}
-    }
+
+<pre>
+@article{10.1145/3386569.3392487,
+  author = {Wang, Hui and Jin, Yongxu and Luo, Anqi and Yang, Xubo and Zhu, Bo},
+  title = {Codimensional Surface Tension Flow Using Moving-Least-Squares Particles},
+  year = {2020},
+  issue_date = {August 2020},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {39},
+  number = {4},
+  issn = {0730-0301},
+  url = {https://doi.org/10.1145/3386569.3392487},
+  doi = {10.1145/3386569.3392487},
+  journal = {ACM Trans. Graph.},
+  month = {aug},
+  articleno = {42},
+  numpages = {16},
+  keywords = {moving-least-squares, surface tension, codimensional fluids, PIC/FLIP}
+}
+</pre>
