@@ -8,6 +8,8 @@ venue: 'ACM Transactions On Graphics (SIGGRAPH)'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3386569.3392487'
 citation: 'Hui Wang, Yongxu Jin, Anqi Luo, Xubo Yang, and Bo Zhu. 2020. Codimensional surface tension flow using moving-least-squares particles. ACM Trans. Graph. 39, 4, Article 42 (August 2020), 16 pages. https://doi.org/10.1145/3386569.3392487'
 image: /images/2020-codim-mls/representative.jpg
+authors: 'Hui Wang, Yongxu Jin, Anqi Luo, Xubo Yang, and Bo Zhu.'
+publishinfo: 'ACM Trans. Graph. 39, 4, Article 42 (August 2020), 16 pages.'
 ---
 
 ![representative](/images/2020-codim-mls/representative.jpg)
