@@ -14,7 +14,7 @@ publishinfo: 'IEEE Transactions on Visualization and Computer Graphics, vol. 26,
 
 ![representative](/images/2018-cnn-poisson/representative.png)
 
-Comparisons with ICPCG method. Our ML-based method 
+Comparisons with ICPCG method.
 
 ### Abstract
 
