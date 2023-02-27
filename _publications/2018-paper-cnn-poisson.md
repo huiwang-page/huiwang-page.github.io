@@ -1,18 +1,18 @@
 ---
 title: "A CNN-based Flow Correction Method for Fast Preview"
 collection: publications
-permalink: /publication/2018-cnn-flow
+permalink: /publication/2018-cnn-poisson
 excerpt: ''
 date: 2018-09-30
-venue: 'ACM Transactions On Graphics (SIGGRAPH)'
+venue: 'IEEE Transactions on Visualization and Computer Graphics'
 paperurl: 'https://doi.org/10.1111/cgf.13649'
 citation: 'X. Xiao, Y. Zhou, H. Wang and X. Yang, "A Novel CNN-Based Poisson Solver for Fluid Simulation," in IEEE Transactions on Visualization and Computer Graphics, vol. 26, no. 3, pp. 1454-1465, 1 March 2020, doi: 10.1109/TVCG.2018.2873375.'
-image: /images/2018-cnn-flow/representative.png
+image: /images/2018-cnn-poisson/representative.png
 authors: 'Xiangyun Xiao, Yanqing Zhou, Hui Wang, and Xubo Yang.'
 publishinfo: 'IEEE Transactions on Visualization and Computer Graphics, vol. 26, no. 3, pp. 1454-1465, 1 March 2020.'
 ---
 
-![representative](/images/2018-cnn-flow/representative.png)
+![representative](/images/2018-cnn-poisson/representative.png)
 
 Comparisons with ICPCG method. Our ML-based method 
 

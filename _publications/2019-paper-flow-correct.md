@@ -6,10 +6,10 @@ excerpt: ''
 date: 2019-06-07
 venue: 'Computer Graphics Forum'
 paperurl: 'https://doi.org/10.1111/cgf.13649'
-citation: 'Xiangyun Xiao, Hui Wang, and Xubo Yang. 2019. A CNN-based Flow Correction Method for Fast Preview. Computer Graphics Forum, 38: 431-440. https://doi.org/10.1111/cgf.13649'
+citation: 'Xiangyun Xiao, Hui Wang, and Xubo Yang. "A novel CNN-based Poisson solver for fluid simulation." IEEE transactions on visualization and computer graphics 26.3 (2018): 1454-1465. https://doi.org/10.1111/cgf.13649'
 image: /images/2019-flow-correct/representative.png
 authors: 'Xiangyun Xiao, Hui Wang, and Xubo Yang.'
-publishinfo: 'Computer Graphics Forum, 38: 431-440.'
+publishinfo: 'Computer Graphics Forum. Vol. 38. No. 2. 2019.'
 ---
 
 ![representative](/images/2019-flow-correct/representative.png)
