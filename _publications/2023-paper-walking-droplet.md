@@ -9,7 +9,7 @@ paperurl: 'https://dl.acm.org/doi/abs/10.1145/3386569.3392487'
 citation: 'Hui Wang, Yuwei Xiao, Yankai Mao, Xubo Yang, and Bo Zhu. 2023. A Two-Way Coupling Approach for Simulating Bouncing Droplets. Under review'
 image: /images/2023-walking-droplet/representative.jpg
 authors: 'Hui Wang, Yuwei Xiao, Yankai Mao, Xubo Yang, and Bo Zhu.'
-# publishinfo: 'ACM Trans. Graph. 39, 4, Article 42 (August 2020), 16 pages.'
+publishinfo: '(Under review)'
 ---
 
 ![representative](/images/2023-walking-droplet/representative.jpg)
