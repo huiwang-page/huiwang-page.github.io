@@ -1,5 +1,5 @@
 ---
-title: "A CNN-based Flow Correction Method for Fast Preview"
+title: "A Novel CNN-Based Poisson Solver for Fluid Simulation"
 collection: publications
 permalink: /publication/2018-cnn-poisson
 excerpt: ''
