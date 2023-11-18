@@ -20,16 +20,12 @@ We propose a new Eulerian-Lagrangian approach to simulate the various surface te
 
 ### Video
 
-<div class="row">
-    <iframe 
-    src="https://www.youtube.com/embed/ugJhLMlyctc" 
-    scrolling="no" frameborder="0"
-    style="position:absolute; top:0px; height: 100%; width: 100vh;"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-    </iframe>
-</div>
-
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/ugJhLMlyctc" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
+</iframe>
 
 ### Links
 
