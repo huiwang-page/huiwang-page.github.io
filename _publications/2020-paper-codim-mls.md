@@ -12,6 +12,8 @@ authors: 'Hui Wang, Yongxu Jin, Anqi Luo, Xubo Yang, and Bo Zhu.'
 publishinfo: 'ACM Trans. Graph. 39, 4, Article 42 (August 2020), 16 pages.'
 ---
 
+#### My personal page has moved to a new website. Please visit me at [hhuiwangg.github.io](https://hhuiwangg.github.io/)!
+
 ![representative](/images/2020-codim-mls/representative.jpg)
 
 ### Abstract

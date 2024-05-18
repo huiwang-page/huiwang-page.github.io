@@ -12,6 +12,8 @@ authors: 'Xiangyun Xiao, Hui Wang, and Xubo Yang.'
 publishinfo: 'Computer Graphics Forum. Vol. 38. No. 2. 2019.'
 ---
 
+#### My personal page has moved to a new website. Please visit me at [hhuiwangg.github.io](https://hhuiwangg.github.io/)!
+
 ![representative](/images/2019-flow-correct/representative.png)
 
 Shape correction examples for three-dimensional case. Our ML-based method correct the overall shape of a low-resolution simulation to closely follow the shape of the high-resolution version.
