@@ -12,7 +12,7 @@ authors: 'Xiangyun Xiao, Yanqing Zhou, Hui Wang, and Xubo Yang.'
 publishinfo: 'IEEE Transactions on Visualization and Computer Graphics, vol. 26, no. 3, pp. 1454-1465, 1 March 2020.'
 ---
 
-#### My personal page has moved to a new website. Please visit me at [hhuiwangg.github.io](https://hhuiwangg.github.io/)!
+### This website is no longer being updated. Please visit me at [hhuiwangg.github.io](https://hhuiwangg.github.io/)!
 
 ![representative](/images/2018-cnn-poisson/representative.png)
 

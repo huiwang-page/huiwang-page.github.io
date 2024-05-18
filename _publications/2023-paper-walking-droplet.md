@@ -12,7 +12,7 @@ authors: 'Hui Wang, Yuwei Xiao, Yankai Mao, Xubo Yang, and Bo Zhu.'
 publishinfo: '(Under review)'
 ---
 
-#### My personal page has moved to a new website. Please visit me at [hhuiwangg.github.io](https://hhuiwangg.github.io/)!
+### This website is no longer being updated. Please visit me at [hhuiwangg.github.io](https://hhuiwangg.github.io/)!
 
 ![representative](/images/2023-walking-droplet/representative.jpg)
 

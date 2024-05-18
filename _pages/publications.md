@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+### This website is no longer being updated. Please visit me at [hhuiwangg.github.io](https://hhuiwangg.github.io/)!
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}

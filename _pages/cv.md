@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+### This website is no longer being updated. Please visit me at [hhuiwangg.github.io](https://hhuiwangg.github.io/)!
+
+<!-- 
 Education
 ======
 * Ph.D in Computer Science, Shanghai Jiao Tong University, 2021.4-2025.4 (expected)
@@ -54,7 +57,7 @@ Additional Experience and Awards
 **Industry Experience**
 * UWA Technology, Software Engineer. Jun. 2019 – Sep. 2019
 * Yoozoo Games, Software Engineer. Jun. 2017 – Sep. 2017
-  
+   -->
 <!-- Skills
 ======
 * Skill 1
